@@ -1,0 +1,22 @@
+{
+  "name": "ferd-translate",
+  "version": "0.0.2",
+  "description": "A module that translates incoming chats for Ferd the Slackbot",
+  "main": "translate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewKishino/ferd-translate.git"
+  },
+  "author": "Andrew Kishino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndrewKishino/ferd-translate/issues"
+  },
+  "homepage": "https://github.com/AndrewKishino/ferd-translate#readme",
+  "dependencies": {
+    "request": "^2.62.0"
+  }
+}
