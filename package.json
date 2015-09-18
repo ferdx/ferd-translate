@@ -1,6 +1,6 @@
 {
   "name": "ferd-translate",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A module that translates incoming chats for Ferd the Slackbot",
   "main": "translate.js",
   "scripts": {

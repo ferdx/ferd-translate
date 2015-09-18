@@ -2,7 +2,7 @@ var request = require('request');
 
 module.exports = function(ferd) {
 
-  ferd.listen(/ferd translate/i, function(response) {
+  ferd.listen(/^ferd translate$/i, function(response) {
     
     response.send('Instructions: `ferd translate` _`text to translate`_');
 
